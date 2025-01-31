@@ -13,6 +13,7 @@
 @media(max-width: 496px){
     .lista-personagens{
         width: 250px;
+        padding: 12px;
     }
 
     .imagem-carta {
@@ -25,7 +26,7 @@
 
     .btn-seta { 
         position: absolute;
-        bottom: 13%;
+        bottom: -13%;
     }
 
     #btn-avancar {
@@ -48,4 +49,4 @@
     .cabecalho {
         font-size: 12px ;
     }
-}
+} 
